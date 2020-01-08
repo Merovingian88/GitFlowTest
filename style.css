@@ -1,0 +1,10 @@
+body {
+  font-family: arial;
+  background-color: grey;
+}
+nav {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  background-color: #e7e7cc;
+}
